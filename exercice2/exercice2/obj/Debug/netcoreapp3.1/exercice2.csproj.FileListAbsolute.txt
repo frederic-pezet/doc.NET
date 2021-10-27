@@ -1,0 +1,14 @@
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\bin\Debug\netcoreapp3.1\exercice2.exe
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\bin\Debug\netcoreapp3.1\exercice2.deps.json
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\bin\Debug\netcoreapp3.1\exercice2.runtimeconfig.json
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\bin\Debug\netcoreapp3.1\exercice2.runtimeconfig.dev.json
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\bin\Debug\netcoreapp3.1\exercice2.dll
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\bin\Debug\netcoreapp3.1\exercice2.pdb
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\obj\Debug\netcoreapp3.1\exercice2.csproj.AssemblyReference.cache
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\obj\Debug\netcoreapp3.1\exercice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\obj\Debug\netcoreapp3.1\exercice2.AssemblyInfoInputs.cache
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\obj\Debug\netcoreapp3.1\exercice2.AssemblyInfo.cs
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\obj\Debug\netcoreapp3.1\exercice2.csproj.CoreCompileInputs.cache
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\obj\Debug\netcoreapp3.1\exercice2.dll
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\obj\Debug\netcoreapp3.1\exercice2.pdb
+C:\Users\Fréderic\Documents\Doc.Net\exercice2\exercice2\obj\Debug\netcoreapp3.1\exercice2.genruntimeconfig.cache

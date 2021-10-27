@@ -1,0 +1,14 @@
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\bin\Debug\netcoreapp3.1\exerciceboucles1.exe
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\bin\Debug\netcoreapp3.1\exerciceboucles1.deps.json
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\bin\Debug\netcoreapp3.1\exerciceboucles1.runtimeconfig.json
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\bin\Debug\netcoreapp3.1\exerciceboucles1.runtimeconfig.dev.json
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\bin\Debug\netcoreapp3.1\exerciceboucles1.dll
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\bin\Debug\netcoreapp3.1\exerciceboucles1.pdb
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\obj\Debug\netcoreapp3.1\exerciceboucles1.csproj.AssemblyReference.cache
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\obj\Debug\netcoreapp3.1\exerciceboucles1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\obj\Debug\netcoreapp3.1\exerciceboucles1.AssemblyInfoInputs.cache
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\obj\Debug\netcoreapp3.1\exerciceboucles1.AssemblyInfo.cs
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\obj\Debug\netcoreapp3.1\exerciceboucles1.csproj.CoreCompileInputs.cache
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\obj\Debug\netcoreapp3.1\exerciceboucles1.dll
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\obj\Debug\netcoreapp3.1\exerciceboucles1.pdb
+C:\Users\Fréderic\Documents\Doc.Net\exerciceboucles1\exerciceboucles1\obj\Debug\netcoreapp3.1\exerciceboucles1.genruntimeconfig.cache

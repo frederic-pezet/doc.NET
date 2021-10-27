@@ -1,0 +1,14 @@
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\bin\Debug\netcoreapp3.1\exercice14.exe
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\bin\Debug\netcoreapp3.1\exercice14.deps.json
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\bin\Debug\netcoreapp3.1\exercice14.runtimeconfig.json
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\bin\Debug\netcoreapp3.1\exercice14.runtimeconfig.dev.json
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\bin\Debug\netcoreapp3.1\exercice14.dll
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\bin\Debug\netcoreapp3.1\exercice14.pdb
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\obj\Debug\netcoreapp3.1\exercice14.csproj.AssemblyReference.cache
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\obj\Debug\netcoreapp3.1\exercice14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\obj\Debug\netcoreapp3.1\exercice14.AssemblyInfoInputs.cache
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\obj\Debug\netcoreapp3.1\exercice14.AssemblyInfo.cs
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\obj\Debug\netcoreapp3.1\exercice14.csproj.CoreCompileInputs.cache
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\obj\Debug\netcoreapp3.1\exercice14.dll
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\obj\Debug\netcoreapp3.1\exercice14.pdb
+C:\Users\Fréderic\Documents\Doc.Net\exercice14\exercice14\obj\Debug\netcoreapp3.1\exercice14.genruntimeconfig.cache
